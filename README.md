@@ -1,1 +1,1 @@
-# sales-pipelin-tracker
+# sales-pipeline-tracker
